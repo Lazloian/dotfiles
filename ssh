@@ -1,0 +1,7 @@
+Host ece
+	HostName ecegrid.ecn.purdue.edu
+  User silva67
+
+Host henry
+	HostName henrysilva.xyz
+	User root
