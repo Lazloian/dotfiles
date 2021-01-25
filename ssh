@@ -1,3 +1,7 @@
+Host scholar
+  HostName scholar.rcac.purdue.edu
+  User silva67
+
 Host ece
 	HostName ecegrid.ecn.purdue.edu
   User silva67

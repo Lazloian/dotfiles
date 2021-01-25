@@ -5,6 +5,10 @@
 # get this directory
 BASEDIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
+# vim
+rm ~/.vimrc
+ln -s ${BASEDIR}/vimrc ~/.vimrc
+
 # nvim (must create .config directory)
 mkdir ~/.config
 mkdir ~/.config/nvim
