@@ -8,4 +8,4 @@ set smartindent
 
 autocmd FileType text,plaintex,tex,markdown setlocal spell spelllang=en_us
 autocmd FileType text,plaintex,tex,markdown setlocal wrap
-autocmd FileType text,plaintex,tex setlocal,markdown linebreak
+autocmd FileType text,plaintex,tex,markdown setlocal linebreak
