@@ -9,3 +9,7 @@ Host ece
 Host henry
 	HostName henrysilva.xyz
 	User root
+
+Host pi
+  HostName 192.168.0.20
+  User pi

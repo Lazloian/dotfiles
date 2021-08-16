@@ -116,6 +116,7 @@ LS_COLORS=$LS_COLORS:'ow=1;34;40:' ; export LS_COLORS
 set -o vi
 alias lsa='ls -A'
 alias lsl='ls -l'
+alias cls='clear; ls'
 alias poster='~/scripts/poster.sh'
 alias getzip='~/scripts/getzip.sh'
 alias sendECE='~/scripts/sendECE.sh'
